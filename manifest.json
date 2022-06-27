@@ -1,0 +1,15 @@
+{
+    "files": {
+        "README.md": "e6a577f04e4d9e3d03ed6759ed2797c709fdc09927f6e114e58ecc93a789ceac",
+        "index.js": "5745d204d1eeaf8c49281f5f6bead885ea44bb9a47031fe85ecd190998f38b4f",
+        "module.json": "787f20ed79fe95791f141b3f7f6987c373f85947bb7104c8b388c5a4fd451916"
+    },
+    "defs": {
+        "S_INSTANT_MOVE": "*",
+        "S_LOGIN": "*",
+        "S_SPAWN_ME": "*",
+        "S_SPAWN_USER": "*",
+        "S_USER_LOCATION": "*",
+        "S_USER_LOCATION_IN_ACTION": "*"
+    }
+}

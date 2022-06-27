@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Tera Recorder",
+    "author": "KYGAS",
+    "description": "Saves a session of your gameplay for the sake of recreating your character in the future. Or revisiting any of your memories.",
+    "options": {
+        "niceName": "TR",
+        "guiName": "Tera Recorder",
+        "reloadable": false
+    },
+    "servers": ["https://raw.githubusercontent.com/KYGAS/tera-recorder/master/"]
+}
